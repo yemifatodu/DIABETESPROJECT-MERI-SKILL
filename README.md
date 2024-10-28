@@ -30,10 +30,9 @@ This project aims at modelling of diabetes through the use of the machine learni
 
 2. **Feature Importance:** Through EDA, I identified key features that significantly influence the likelihood of diabetes, such as glucose levels, BMI, and age. These were the features that helped in the prediction made by this model.
 
-3. **Model Performance:** The logistic regression model performed well, with an accuracy of X% (specific value from the report). The data also supported the model in the model’s precision and recall measurements, showing the reliability of its prediction about the likelihood of diabetes.
+3. **Model Performance:** The logistic regression model performed well, with an accuracy of 0.7532467532467533% . The data also supported the model in the model’s precision and recall measurements, showing the reliability of its prediction about the likelihood of diabetes.
 
-4. **Visualization and Interpretation:** Visualizations, including heatmaps and correlation plots, provided clear insights into the relationships between variables. The result of the AUC-ROC was 0.95, and this was interpreted as being an effective discriminator between positive and negative cases.
-
+4. **Visualization and Interpretation:** Visualizations, including heatmaps and correlation plots, provided clear insights into the relationships between variables.
 
 **Conclusion:**
 
